@@ -1,13 +1,5 @@
 
 
-
-<style>
-	:global(div.progress){
-		height: 2rem;
-		font-size: 1.5rem;
-	}
-</style>
-
 <script>
   	import Progress from 'sveltestrap/src/Progress.svelte';
 
